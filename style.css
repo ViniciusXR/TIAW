@@ -1,0 +1,21 @@
+.btn_lateral{
+    background-color: rgb(75, 37, 136);
+    color: white;
+    font-weight: bold;
+    padding: 10px;
+    border-radius: 25px;
+    width: 250px;
+}
+
+#btn-procurar{
+    background-color: rgb(207, 27, 27);
+    color: white;
+    font-weight: bold;
+    padding: 10px;
+    border-radius: 25px;
+    width: 250px;
+}
+
+.navbar-expand-md .navbar-nav .nav-link{
+    padding-right: initial;
+}
