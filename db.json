@@ -8,7 +8,7 @@
     "tipo": "A+",
     "diag": "Transplante de medula",
     "hospital": "Hospital das Clinicas",
-    "e-mail": "luizm@mail.com"
+    "email": "luizm@mail.com"
   },
   {
     "id": 1,
@@ -19,7 +19,7 @@
     "tipo": "A-",
     "diag": "Hemofilia",
     "hospital": "Hospital Felício Rocho",
-    "e-mail": "marias@mail.com"
+    "email": "marias@mail.com"
   },
   {
     "id": 2,
@@ -30,7 +30,7 @@
     "tipo": "B+",
     "diag": "Anemia Profunda",
     "hospital": "Hospital Mater Dei",
-    "e-mail": "brunor@gmail.com"
+    "email": "brunor@gmail.com"
   },
   {
     "id": 3,
@@ -41,7 +41,7 @@
     "tipo": "O-",
     "diag": "Hemorragia",
     "hospital": "Hospital Semper",
-    "e-mail": "carlap@gmail.com"
+    "email": "carlap@gmail.com"
   },
   {
     "id": 4,
@@ -52,7 +52,7 @@
     "tipo": "AB+",
     "diag": "Transplante de orgão",
     "hospital": "Life Center",
-    "e-mail": "joaoc@gmail.com"
+    "email": "joaoc@gmail.com"
   },
   {
     "id": 5,
@@ -63,6 +63,6 @@
     "tipo": "O+",
     "diag": "Hemorragia",
     "hospital": "Hospital Felício Rocho",
-    "e-mail": "brunav@gmail.com"
+    "email": "brunav@gmail.com"
   }
 ]
