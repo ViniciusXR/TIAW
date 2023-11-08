@@ -1,4 +1,4 @@
-{
+[
     {
       "id": 0,
       "nome": "Luiz Martins",
@@ -35,4 +35,4 @@
       "hospital": "Hospital Semper",
       "e-mail": "carlap@gmail.com"
     }
-}
+]
